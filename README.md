@@ -2,12 +2,13 @@
 
 An interactive R Shiny application that identifies statistically comparable MLB players and uses historical free agent contracts to estimate contract value.
 
+![MLB Contract Projection App](app-preview.png)
+
 ## Project Overview
 
 This project was built to explore how player similarity can be used in MLB free agent contract projections. Users can select a current batter or pitcher and compare that player to historical free agents based on statistical performance, age, and position.
 
 The application identifies the closest statistical comparisons and uses their previous contracts to generate an estimated contract length, total value, and average annual value.
-
 ## Features
 
 - Separate analysis for batters and pitchers
